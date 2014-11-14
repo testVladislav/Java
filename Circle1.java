@@ -1,6 +1,6 @@
 /**
  * Круг
- *
+ * test1
  * 
  */
 public class Circle1 extends Shape {
