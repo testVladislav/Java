@@ -1,5 +1,7 @@
 /**
  * Круг
+ *
+ * 
  */
 public class Circle1 extends Shape {
     public Point point;
